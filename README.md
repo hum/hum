@@ -10,7 +10,7 @@
 
 --------------------------------------------------------------
 
-### Languages I use
+### Stuff I use
 ![Go](https://img.shields.io/badge/-Go-000?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%20Sharp-000?style=flat&logo=c-sharp)
@@ -48,11 +48,11 @@
   - CSS (:sleeping:)
 
 ### 💾 Projects
-  - [🌱 Planty]() A dockerized multi-purpose Discord bot.
-  - [🔑 Emi]() An interpreter for a made-up language written in Go.
-  - [🌿 Sprout]() A multi-site content (mostly images) collection library.
-  - [🎲 Game of Life]() An implementation of the Game of Life with Rust (WebAssembly) and JS. 
-  - [🧩 MC RCON]() A super super simple package to create Minecraft RCON packets with Go.
+  - [🌱 Planty](https://github.com/hum/planty) A dockerized multi-purpose Discord bot.
+  - [🔑 Emi](https://github.com/hum/emi) An interpreter for a made-up language written in Go.
+  - [🌿 Sprout](https://github.com/hum/sprout) A multi-site content (mostly images) collection library.
+  - [🎲 Game of Life](https://github.com/hum/game-of-life-wasm) An implementation of the Game of Life with Rust (WebAssembly) and JS. 
+  - [🧩 MC RCON](https://github.com/hum/mc-rcon) A super super simple package to create Minecraft RCON packets with Go.
   - ...
 
 ### 🥅 Goals for 2021
