@@ -63,6 +63,6 @@
   - Create more FOSS projects
 
 ### ☕️ Contact
-  - Mail: `SOON`
+  - Mail: [contact@hum.sh](mailto:contact@hum.sh)
   - Discord: [hum#0001](https://discord.com/channels/@me/239641728741539840)
   - Blog: `SOON` ([hum.sh](https://hum.sh))
