@@ -13,10 +13,10 @@
 ### Stuff I use
 ![Go](https://img.shields.io/badge/-Go-000?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)
 ![C#](https://img.shields.io/badge/-C%20Sharp-000?style=flat&logo=c-sharp)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
@@ -26,11 +26,11 @@
 ### Tools
 ![Vim](https://img.shields.io/badge/-Vim-000?style=flat&logo=vim)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![Deno](https://img.shields.io/badge/-Deno-000?style=flat&logo=deno)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular)
-![Deno](https://img.shields.io/badge/-Deno-000?style=flat&logo=deno)
 ![MacOS](https://img.shields.io/badge/-macOS-000?style=flat&logo=macos)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat&logo=nginx)
 ![Apache](https://img.shields.io/badge/-Apache-000?style=flat&logo=apache)
@@ -65,4 +65,4 @@
 ### ☕️ Contact
   - Mail: [contact@hum.sh](mailto:contact@hum.sh)
   - Discord: [hum#0001](https://discord.com/channels/@me/239641728741539840)
-  - Blog: `SOON` ([hum.sh](https://hum.sh))
+  - Blog: ([hum.sh](https://hum.sh))
