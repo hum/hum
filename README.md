@@ -65,4 +65,4 @@
 ### ☕️ Contact
   - Mail: [contact@hum.sh](mailto:contact@hum.sh)
   - Discord: [hum#0001](https://discord.com/channels/@me/239641728741539840)
-  - Blog: [hum.sh](https://hum.sh)
+  - Blog: [hum.sh](http://hum.sh)
