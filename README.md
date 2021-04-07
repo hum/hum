@@ -41,7 +41,7 @@
 ### Favorite open-source projects
   - `🌱 TBD`
 
-### 🪴 I'm currently learning
+### 🌵 I'm currently learning
   - Deno
   - K8s
   - WebAssembly
