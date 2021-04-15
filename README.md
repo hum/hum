@@ -42,7 +42,6 @@
   - `🌱 TBD`
 
 ### 🌵 I'm currently learning
-  - Deno
   - K8s
   - WebAssembly
   - CSS (:sleeping:)
