@@ -43,7 +43,6 @@
 
 ### 🌵 I'm currently learning
   - K8s
-  - WebAssembly
   - CSS (:sleeping:)
 
 ### 💾 Projects
