@@ -4,7 +4,7 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hum&layout=compact)]()
 -->
 
-<img width="30%" align="right" alt="Github" src="https://i.pinimg.com/originals/22/0c/dc/220cdcf3951af2b3733780d455a2b865.png" />
+<img width="30%" align="right" alt="image" src="static/img.png" />
 
 - 💬 Ask me about anything, I am happy to help;
 
