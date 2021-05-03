@@ -11,17 +11,17 @@
 --------------------------------------------------------------
 
 ### Stuff I use
-![Go](https://img.shields.io/badge/-Go-000?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)
-![C#](https://img.shields.io/badge/-C%20Sharp-000?style=flat&logo=c-sharp)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java)
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=Markdown)
+![Go](static/go.svg)
+![Python](static/python.svg)
+![TypeScript](static/ts.svg)
+![C#](static/csharp.svg)
+![SQL](static/sql.svg)
+![Java](static/java.svg)
+![Rust](static/rust.svg)
+![GraphQL](static/graphql.svg)
+![HTML5](static/html.svg)
+![CSS3](static/css.svg)
+![Markdown](static/markdown.svg)
 
 ### Tools
 ![Vim](https://img.shields.io/badge/-Vim-000?style=flat&logo=vim)
