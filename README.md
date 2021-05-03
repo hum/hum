@@ -24,19 +24,19 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=Markdown)
 
 ### Tools
-![Vim](https://img.shields.io/badge/-Vim-000?style=flat&logo=vim)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![Deno](https://img.shields.io/badge/-Deno-000?style=flat&logo=deno)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular)
-![MacOS](https://img.shields.io/badge/-macOS-000?style=flat&logo=macos)
-![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-000?style=flat&logo=apache)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=github)
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?style=flat&logo=github-actions)
+![Vim](static/vim.svg)
+![Docker](static/docker.svg)
+![Deno](static/deno.svg)
+![PostgreSQL](static/postgresql.svg)
+![MySQL](static/mysql.svg)
+![React](static/react.svg)
+![Angular](static/angular.svg)
+![MacOS](static/macos.svg)
+![Nginx](static/nginx.svg)
+![Apache](static/apache.svg)
+![Git](static/git.svg)
+![Github](static/github.svg)
+![Github Actions](static/actions.svg)
 
 ### Favorite open-source projects
   - `🌱 TBD`
