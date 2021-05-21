@@ -46,20 +46,16 @@
   - CSS (:sleeping:)
 
 ### 💾 Projects
-  - [🌱 Planty](https://github.com/hum/planty) A dockerized multi-purpose Discord bot.
   - [🔑 Emi](https://github.com/hum/emi) An interpreter for a made-up language written in Go.
+  - [🌱 Planty](https://github.com/hum/planty) Multi-purpose Discord bot.
   - [🌿 Sprout](https://github.com/hum/sprout) A multi-site content (mostly images) collection library.
-  - [🎲 Game of Life](https://github.com/hum/game-of-life-wasm) An implementation of the Game of Life with Rust (WebAssembly) and JS. 
-  - [🧩 MC RCON](https://github.com/hum/mc-rcon) A super super simple package to create Minecraft RCON packets with Go.
-  - [🐥 peep](https://github.com/hum/peep) [WIP] A straight-forward CLI way to find available domain names from hundreds of TLDs
+  - [🐥 peep](https://github.com/hum/peep) [WIP] A CLI tool to find available domain names from hundreds of TLDs
   - ...
 
 ### 🥅 Goals for 2021
   - Become friends with front-end development
   - Finish projects *(let's not talk about the 50+ private repositories)*
-  - Be more active in the open-source community
 
 ### ☕️ Contact
   - Mail: [contact@hum.sh](mailto:contact@hum.sh)
   - Discord: [hum#0001](https://discord.com/channels/@me/239641728741539840)
-  - Blog: [hum.sh](https://hum.sh)
