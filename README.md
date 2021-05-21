@@ -6,9 +6,7 @@
 
 <img width="30%" align="right" alt="image" src="static/img.png" />
 
-- 💬 Ask me about anything, I am happy to help;
-
---------------------------------------------------------------
+---
 
 ### Stuff I use
 ![Go](static/go.svg)
