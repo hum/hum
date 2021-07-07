@@ -45,14 +45,9 @@
 
 ### 💾 Projects
   - [🔑 Emi](https://github.com/hum/emi) An interpreter for a made-up language written in Go.
-  - [🌱 Planty](https://github.com/hum/planty) Multi-purpose Discord bot.
-  - [🌿 Sprout](https://github.com/hum/sprout) A multi-site content (mostly images) collection library.
   - [🐥 peep](https://github.com/hum/peep) [WIP] A CLI tool to find available domain names from hundreds of TLDs
+  - [🌱 Planty](https://github.com/hum/planty) Multi-purpose Discord bot.
   - ...
-
-### 🥅 Goals for 2021
-  - Become friends with front-end development
-  - Finish projects *(let's not talk about the 50+ private repositories)*
 
 ### ☕️ Contact
   - Mail: [contact@hum.sh](mailto:contact@hum.sh)
